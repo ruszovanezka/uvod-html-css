@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(170, 106, 64);
+    background-color: rgb(126, 78, 110);
     /*
     margin: 0;
     padding: 0;
@@ -21,3 +21,5 @@ body {
 h1 {
     color: #f0ceb8;
 }
+
+h2 {color: rgb(240, 177, 99);}
